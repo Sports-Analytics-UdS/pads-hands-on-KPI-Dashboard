@@ -54,6 +54,8 @@ Statsbomb provides the [definition](https://classic.statsbomb.hudl.com/help/sbda
 
 This dataset consists of **aggregated, derived team-level statistics**. It does **not** contain raw event data, tracking data, or proprietary identifiers.
 
+---
+
 ## Intended Use (Teaching in Football Analytics @ Saarland University)
 
 - Comparative league analysis
