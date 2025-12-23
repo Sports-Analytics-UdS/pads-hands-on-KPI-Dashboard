@@ -6,6 +6,7 @@ This repository contains a team-level KPI metrics from all Big-Five league clubs
 
 ℹ️ A larger dataset containing five-season KPI data is expected to be uploaded by _9 January, 2025_.
 
+---
 
 ## Contents
 - [Technical Glossary](#technical-glossary)
