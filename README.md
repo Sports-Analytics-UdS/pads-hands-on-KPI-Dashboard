@@ -2,7 +2,7 @@
 
 This repository contains a team-level KPI metrics from all Big-Five league clubs for the 2024/25 season. Each observation represents the aggregated performance of a single team within one league and season. This dataset is made available through an official collaboration between Saarland University and Statsbomb.
 
-ℹ️ Due to current technical issues encountered during making request to _Statsbomb API_, only data from season 2024/25 is provided in the exemplar dataset.
+ℹ️ Due to current technical issues encountered during making requests to _Statsbomb API_, only data from season 2024/25 is provided in the exemplar dataset.
 
 ℹ️ A larger dataset containing five-season KPI data is expected to be uploaded by _9 January, 2025_.
 
