@@ -8,5 +8,5 @@ This repository contains KPI metrics from all big-five league clubs (by Statsbom
 
 ## Technical Glossary
 
-Statsbomb provides the [definition](https://classic.statsbomb.hudl.com/help/sbdata-glossary) of each metric included in this dataset.
+Statsbomb provides the [definition](https://classic.statsbomb.hudl.com/help/sbdata-glossary) of each metric included in this dataset (Statsbomb log-in credentials required).
 
