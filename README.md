@@ -6,6 +6,16 @@ This repository contains a team-level KPI metrics from all Big-Five league clubs
 
 ℹ️ A larger dataset containing five-season KPI data is expected to be uploaded by _9 January, 2025_.
 
+
+## Contents
+- [Technical Glossary](#technical-glossary)
+- [Variables](#variables)
+- [Data Source and Licensing](#data-source-and-licensing)
+- [Intended Use ](#intended-use)
+- [Citation](#citation)
+
+
+
 ---
 
 ## Technical Glossary
@@ -56,8 +66,9 @@ This dataset consists of **aggregated, derived team-level statistics**. It does 
 
 ---
 
-## Intended Use (Teaching in Football Analytics @ Saarland University)
+## Intended Use
 
+This dataset is used for teaching in Sports Analytics at Saarland University.
 - Comparative league analysis
 - Team performance profiling
 
