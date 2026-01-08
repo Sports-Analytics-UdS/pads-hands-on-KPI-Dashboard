@@ -1,6 +1,6 @@
 # KPI metrics——Dashboard Task
 
-This repository contains team-level KPI metrics from all Big-Five ⚽️ league clubs for 2020/21-2024/25 seasons. Each observation represents the aggregated performance of a single team within one league and season. This dataset is made available through an official collaboration between **Saarland University** and **Statsbomb**.
+This repository contains team-level KPI metrics from all Big-Five ⚽️ league clubs for season 2020/21-2024/25. Each observation represents the aggregated performance of a single team within one league and season. This dataset is made available through an official collaboration between **Saarland University** and **Statsbomb**.
 
 
 ---
